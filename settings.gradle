@@ -1,0 +1,5 @@
+rootProject.name = 'wt3'
+include 'server'
+include 'client'
+include 'core'
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<studentCases>
+    <case>
+        <id>1</id>
+        <firstName>Some</firstName>
+        <lastName>Student</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Another</firstName>
+        <lastName>One</lastName>
+    </case>
+    <case>
+        <id>3</id>
+        <firstName>Vladislav</firstName>
+        <lastName>Maiski</lastName>
+    </case>
+</studentCases>
